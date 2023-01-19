@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋  My name is HyeonJin Jeon
 
+<h3 align="center">how to contact me</h3>
 <a href="mailto:guswls12345678973@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a> 
 <a href="https://www.instagram.com/h_jinnny/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
           
